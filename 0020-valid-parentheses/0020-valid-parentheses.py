@@ -12,4 +12,3 @@ class Solution:
             stack.pop()
 
         return not stack
-        
