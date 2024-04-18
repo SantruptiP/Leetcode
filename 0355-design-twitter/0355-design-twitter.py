@@ -16,16 +16,17 @@ class Twitter:
         self.followMap[userId].add(userId)
         for followeeId in self.followMap[userId]:
             if followeeId in self.tweetMap:
-                index = len(self.tweetMap[followeeId]) - 1
-                count, tweetId = self.tweetMap[followeeId][index]
-                heapq.heappush(minHeap, [count, tweetId, followeeId, index - 1])
+                for i in range(len(self.tweetMap[followeeId])):
+                #index = len(self.tweetMap[followeeId]) - 1
+                    count, tweetId = self.tweetMap[followeeId][i]
+                    heapq.heappush(minHeap, [count, tweetId])
 
         while minHeap and len(res) < 10:
-            count, tweetId, followeeId, index = heapq.heappop(minHeap)
+            count, tweetId = heapq.heappop(minHeap)
             res.append(tweetId)
-            if index >= 0:
-                count, tweetId = self.tweetMap[followeeId][index]
-                heapq.heappush(minHeap, [count, tweetId, followeeId, index - 1])
+            #if index >= 0:
+               # count, tweetId = self.tweetMap[followeeId][index]
+               # heapq.heappush(minHeap, [count, tweetId, followeeId, index - 1])
         return res
 
     def follow(self, followerId: int, followeeId: int) -> None:
