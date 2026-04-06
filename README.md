@@ -6,6 +6,7 @@ Solving Leet code DSA problems
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/SantruptiP/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/SantruptiP/Leetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SantruptiP/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/SantruptiP/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -61,4 +62,8 @@ Solving Leet code DSA problems
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SantruptiP/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/SantruptiP/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
