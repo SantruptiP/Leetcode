@@ -13,6 +13,7 @@ Solving Leet code DSA problems
 | [0238-product-of-array-except-self](https://github.com/SantruptiP/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/SantruptiP/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/SantruptiP/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0695-max-area-of-island](https://github.com/SantruptiP/Leetcode/tree/master/0695-max-area-of-island) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -81,16 +82,20 @@ Solving Leet code DSA problems
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/SantruptiP/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/SantruptiP/Leetcode/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/SantruptiP/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/SantruptiP/Leetcode/tree/master/0695-max-area-of-island) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/SantruptiP/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/SantruptiP/Leetcode/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/SantruptiP/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/SantruptiP/Leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
