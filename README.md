@@ -8,6 +8,7 @@ Solving Leet code DSA problems
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SantruptiP/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/SantruptiP/Leetcode/tree/master/0056-merge-intervals) |
+| [0130-surrounded-regions](https://github.com/SantruptiP/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SantruptiP/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SantruptiP/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/SantruptiP/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -81,21 +82,25 @@ Solving Leet code DSA problems
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/SantruptiP/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SantruptiP/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/SantruptiP/Leetcode/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/SantruptiP/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SantruptiP/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/SantruptiP/Leetcode/tree/master/0695-max-area-of-island) |
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/SantruptiP/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SantruptiP/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/SantruptiP/Leetcode/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/SantruptiP/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SantruptiP/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/SantruptiP/Leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
