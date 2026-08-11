@@ -116,4 +116,8 @@ Solving Leet code DSA problems
 | [0695-max-area-of-island](https://github.com/SantruptiP/Leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/SantruptiP/Leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SantruptiP/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/SantruptiP/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
