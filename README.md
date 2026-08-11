@@ -7,6 +7,7 @@ Solving Leet code DSA problems
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SantruptiP/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/SantruptiP/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SantruptiP/Leetcode/tree/master/0056-merge-intervals) |
 | [0130-surrounded-regions](https://github.com/SantruptiP/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SantruptiP/Leetcode/tree/master/0200-number-of-islands) |
@@ -24,12 +25,14 @@ Solving Leet code DSA problems
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SantruptiP/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SantruptiP/Leetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SantruptiP/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SantruptiP/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SantruptiP/Leetcode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/SantruptiP/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0981-time-based-key-value-store](https://github.com/SantruptiP/Leetcode/tree/master/0981-time-based-key-value-store) |
 ## Divide and Conquer
@@ -76,6 +79,7 @@ Solving Leet code DSA problems
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SantruptiP/Leetcode/tree/master/0049-group-anagrams) |
 | [0981-time-based-key-value-store](https://github.com/SantruptiP/Leetcode/tree/master/0981-time-based-key-value-store) |
 ## Design
 |  |
