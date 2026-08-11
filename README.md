@@ -32,6 +32,7 @@ Solving Leet code DSA problems
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SantruptiP/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/SantruptiP/Leetcode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/SantruptiP/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0981-time-based-key-value-store](https://github.com/SantruptiP/Leetcode/tree/master/0981-time-based-key-value-store) |
@@ -66,6 +67,7 @@ Solving Leet code DSA problems
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SantruptiP/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/SantruptiP/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -79,6 +81,7 @@ Solving Leet code DSA problems
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SantruptiP/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/SantruptiP/Leetcode/tree/master/0049-group-anagrams) |
 | [0981-time-based-key-value-store](https://github.com/SantruptiP/Leetcode/tree/master/0981-time-based-key-value-store) |
 ## Design
