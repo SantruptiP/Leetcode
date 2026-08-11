@@ -91,6 +91,7 @@ Solving Leet code DSA problems
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/SantruptiP/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/SantruptiP/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SantruptiP/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/SantruptiP/Leetcode/tree/master/0695-max-area-of-island) |
@@ -124,9 +125,15 @@ Solving Leet code DSA problems
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/SantruptiP/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SantruptiP/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/SantruptiP/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SantruptiP/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/SantruptiP/Leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
