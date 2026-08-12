@@ -34,6 +34,7 @@ Solving Leet code DSA problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SantruptiP/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/SantruptiP/Leetcode/tree/master/0049-group-anagrams) |
+| [0146-lru-cache](https://github.com/SantruptiP/Leetcode/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/SantruptiP/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0981-time-based-key-value-store](https://github.com/SantruptiP/Leetcode/tree/master/0981-time-based-key-value-store) |
 ## Divide and Conquer
@@ -87,6 +88,7 @@ Solving Leet code DSA problems
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/SantruptiP/Leetcode/tree/master/0146-lru-cache) |
 | [0981-time-based-key-value-store](https://github.com/SantruptiP/Leetcode/tree/master/0981-time-based-key-value-store) |
 ## Depth-First Search
 |  |
@@ -136,4 +138,12 @@ Solving Leet code DSA problems
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SantruptiP/Leetcode/tree/master/0098-validate-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/SantruptiP/Leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/SantruptiP/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
