@@ -15,6 +15,7 @@ Solving Leet code DSA problems
 | [0238-product-of-array-except-self](https://github.com/SantruptiP/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/SantruptiP/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/SantruptiP/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/SantruptiP/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/SantruptiP/Leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/SantruptiP/Leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SantruptiP/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -22,6 +23,7 @@ Solving Leet code DSA problems
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SantruptiP/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/SantruptiP/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -36,6 +38,7 @@ Solving Leet code DSA problems
 | [0049-group-anagrams](https://github.com/SantruptiP/Leetcode/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/SantruptiP/Leetcode/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/SantruptiP/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/SantruptiP/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0981-time-based-key-value-store](https://github.com/SantruptiP/Leetcode/tree/master/0981-time-based-key-value-store) |
 ## Divide and Conquer
 |  |
